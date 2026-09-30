@@ -1,0 +1,6 @@
+{
+  "name": "CV Genius AI",
+  "description": "AI yordamida bir necha daqiqada zamonaviy va professional CV yarating.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
